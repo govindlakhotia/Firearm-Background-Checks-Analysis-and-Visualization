@@ -14,7 +14,7 @@ The dataset used in this project contains records of firearm background checks c
 
 ## Data Source
 
-The dataset originates from (NICS Firearm Background Checks)[https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data].
+The dataset originates from [NICS Firearm Background Checks](https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data).
 
 ## Project Objective
 
