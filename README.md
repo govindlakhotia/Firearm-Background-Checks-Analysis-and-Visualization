@@ -48,6 +48,10 @@ The primary objective of this project is to:
 
 **4. Impact of Events:** Background checks surged during [e.g., certain policy announcements, public safety concerns, or major events].
 
+![Dashboard P1](https://github.com/user-attachments/assets/c0cb6a8d-34ba-4442-91be-8ac165b2065c)
+![Dashboard P2](https://github.com/user-attachments/assets/6d741a54-4d2e-4dd8-9217-72951c35ec75)
+
+
 ## Managerial and Policy Implications
 
 **1. Resource Allocation:** Insights can help allocate resources (e.g., law enforcement, administrative staff) to states or months with higher transaction volumes.
@@ -60,7 +64,7 @@ The primary objective of this project is to:
 
 **5. Seasonal Planning:** Seasonal spikes in background checks highlight the need for temporary resource scaling during peak periods.
 
-**Technical Workflow**
+## Technical Workflow**
 
     1. Data Processing:
         •The dataset was transformed into InfluxDB line protocol format using a Python script.
