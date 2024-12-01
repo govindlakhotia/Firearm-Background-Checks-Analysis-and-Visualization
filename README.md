@@ -48,9 +48,8 @@ The primary objective of this project is to:
 
 **4. Impact of Events:** Background checks surged during [e.g., certain policy announcements, public safety concerns, or major events].
 
-![Dashboard P1](https://github.com/user-attachments/assets/c0cb6a8d-34ba-4442-91be-8ac165b2065c)
-![Dashboard P2](https://github.com/user-attachments/assets/6d741a54-4d2e-4dd8-9217-72951c35ec75)
-
+![Screenshot from 2024-12-01 16-39-58](https://github.com/user-attachments/assets/9a80d623-dca1-4028-bce9-ba0bf28bb223)
+![Screenshot from 2024-12-01 16-40-21](https://github.com/user-attachments/assets/a2456559-2f35-488c-a952-84679a81880e)
 
 ## Managerial and Policy Implications
 
