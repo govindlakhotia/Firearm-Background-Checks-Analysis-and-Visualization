@@ -150,8 +150,15 @@ The primary objective of this project is to:
     Implication:
         Insights into inventory management for firearm retailers.
 
+## Dashboard Design
+
 ![Screenshot from 2024-12-01 16-39-58](https://github.com/user-attachments/assets/9a80d623-dca1-4028-bce9-ba0bf28bb223)
 ![Screenshot from 2024-12-01 16-40-21](https://github.com/user-attachments/assets/a2456559-2f35-488c-a952-84679a81880e)
+
+## Video
+
+https://github.com/user-attachments/assets/cb2311dd-f43f-4fd9-85d8-a61990c22c14
+
 
 ## Managerial and Policy Implications
 
